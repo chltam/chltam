@@ -1,7 +1,23 @@
 # 💫 About Me:
 
+Hi, I am Cosmo, a software engineering student at 42 Berlin. I finished the Core Curriculum recently, now actively looking for internship or entry level job.
 
-`42 Project Highlight`
+# Projects:
+
+
+## 42 Projects:
+
+[Transcendence - 42 core curriculum final full stack project](https://github.com/cbadura/transcendence)
+
+[Webserv - A nginx-like web server](https://github.com/chltam/webserv)
+
+[Cub3d - 3D space rendering with ray casting algorithm](https://github.com/chltam/cub3d)
+
+[Minishell - A simple unix shell](https://github.com/chltam/minishell)
+
+---
+
+
 
 
 
